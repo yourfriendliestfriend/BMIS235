@@ -1,0 +1,32 @@
+body {
+    background-color: beige;
+}
+
+a {
+    background-color: lightcoral
+}
+
+p {
+    font-size: x-large;
+    border: 20px solid lightskyblue;
+    padding: 10px;
+    margin: 20px;
+  }
+
+h1{
+    border: 20px solid lightskyblue;
+    padding: 10px;
+    margin: 20px;
+}
+
+a {
+    border: 20px solid lightskyblue;
+    padding: 10px;
+    margin: 20px;
+}
+
+img {
+    border: 20px solid lightskyblue;
+    padding: 0px;
+    margin: 20px;
+  }
